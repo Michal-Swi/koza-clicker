@@ -111,7 +111,7 @@ class AdditionalClickButton {
 				return cost_text;
 			}
 	private: void increase_cost() {
-				cost = cost * 1.2 + (10 * (0.2 * cost));
+				cost = cost * 1.2;
 				std::string cost_string = std::to_string(cost);
 				cost_text.setString("Cost of upgrade: " + cost_string);
 			}	

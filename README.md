@@ -17,3 +17,4 @@ i odpalić plik koza_clicker:
 ./koza_clicker
 ```
 Można też samemu skompilować projekt używając gotowego makefilea, ale to zresetuje cały postęp.
+![screen z gry](example.png)
